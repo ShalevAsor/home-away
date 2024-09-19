@@ -7,6 +7,7 @@ function PropertyRating({
   inPage: boolean;
 }) {
   //temp
+  console.log(propertyId);
   const rating = 4.7;
   const count = 100;
   const className = `flex gap-1 items-center ${inPage ? `text-md` : `text-xs`}`;
