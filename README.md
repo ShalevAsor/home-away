@@ -2,7 +2,7 @@
 
 A modern property rental platform built with Next.js 14, offering a seamless experience for property booking and management. Inspired by Airbnb, HomeAway provides a feature-rich environment for both hosts and guests.
 
-![HomeAway Preview](public/preview.png) <!-- Add your project preview image -->
+
 
 ## 🌟 Features
 
