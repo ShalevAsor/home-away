@@ -64,5 +64,5 @@ A modern property rental platform built with Next.js 14, offering a seamless exp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/home-away.git
+git clone https://github.com/shalevasor/home-away.git
 cd home-away
